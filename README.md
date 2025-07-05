@@ -1,5 +1,5 @@
-# Resurrecting Project in LinUtil
+# Editted to add me packages I like
 
-The All-In-One quick Arch setup is part of LINUTIL Now!
+Arch ting
 
-### <https://github.com/ChrisTitusTech/linutil>
+# Forked from ArchTitus by Chris Titus Tech
